@@ -1,4 +1,4 @@
-# Lois Ellen Gibbs-Scholarship Project
+# Lois Ellen Gibbs-McCullar Scholarship 
 
 An interactive web application built to streamline scholarship tracking and application management. Developed responsive UI layouts with JavaScript and custom CSS to deliver clean, dynamic user experience.
 ---
