@@ -1,4 +1,4 @@
-# Lois Scholarship Project
+# Lois Ellen Gibbs-Scholarship Project
 
 An interactive web application built to streamline scholarship tracking and application management. Developed responsive UI layouts with JavaScript and custom CSS to deliver clean, dynamic user experience.
 ---
@@ -32,6 +32,6 @@ https://github.com/user-attachments/assets/7d26ee5b-8ad9-4fd7-a5d2-17d566c1d2a3
 ---
 
 ## Connect & Donate
-- Website: https://loisscholarship.github.io/LEGM-Scholarship/
-- Linkedin: linkedin.com/companylois-ellen-gibbs-mccullar-scholarship
-- Email: loismccullarscholarship@gmail.com
+- **Website: https://loisscholarship.github.io/LEGM-Scholarship/
+- **Linkedin: linkedin.com/company/lois-ellen-gibbs-mccullar-scholarship
+- **Email: loismccullarscholarship@gmail.com
